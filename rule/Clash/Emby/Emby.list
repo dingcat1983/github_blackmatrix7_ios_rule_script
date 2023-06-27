@@ -42,5 +42,7 @@ DOMAIN-SUFFIX,servers.xeton.dev
 DOMAIN-KEYWORD,emby
 DOMAIN-KEYWORD,jmsooo
 DOMAIN-KEYWORD,odysseyplus
+DOMAIN-KEYWORD,backyard
+DOMAIN-KEYWORD,misakaf
 DOMAIN-KEYWORD,xeton.dev
 IP-CIDR,161.97.148.156/24,no-resolve
