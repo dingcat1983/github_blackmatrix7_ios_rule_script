@@ -8,7 +8,6 @@
 # TOTAL: 38
 payload:
   - DOMAIN,notnetflix.cos.cat
-  - DOMAIN,kws.moe
   - DOMAIN-KEYWORD,emby
   - DOMAIN-KEYWORD,emby.wtf
   - DOMAIN-KEYWORD,jmaooo.com
@@ -27,6 +26,7 @@ payload:
   - DOMAIN-SUFFIX,agasg.odysseyplus.site
   - DOMAIN-SUFFIX,agasg1.jmsooo.com
   - DOMAIN-SUFFIX,agon.cf
+  - DOMAIN-SUFFIX,cf.kws.moe
   - DOMAIN-SUFFIX,aws.jmsooo.com
   - DOMAIN-SUFFIX,az-hk.embyclub.com
   - DOMAIN-SUFFIX,azsgp.embyclub.com
