@@ -8,6 +8,7 @@
 # TOTAL: 38
 payload:
   - DOMAIN,notnetflix.cos.cat
+  - DOMAIN,kws.moe
   - DOMAIN-KEYWORD,emby
   - DOMAIN-KEYWORD,emby.wtf
   - DOMAIN-KEYWORD,jmaooo.com
