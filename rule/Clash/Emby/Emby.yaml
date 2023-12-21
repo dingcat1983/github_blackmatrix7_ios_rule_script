@@ -9,6 +9,7 @@
 payload:
   - DOMAIN,notnetflix.cos.cat
   - DOMAIN-KEYWORD,emby
+  - DOMAIN-SUFFIX,dingcat.eu.org
   - DOMAIN-KEYWORD,emby.wtf
   - DOMAIN-KEYWORD,jmaooo.com
   - DOMAIN-KEYWORD,odysseyplus
